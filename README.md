@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm Owen.
+Final-year Computer Science student and full‑stack developer focused on building robust APIs, scalable backends, and modern web apps. Currently deepening my AWS and backend engineering skills while shipping projects end‑to‑end.
 
-<!--
-**Owen7-7gg/Owen7-7gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I Do
+Build full‑stack applications with clean architecture and thoughtful UX
 
-Here are some ideas to get you started:
+Design and implement REST/HTTP APIs that are reliable and easy to consume
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Explore cloud-native patterns on AWS (compute, storage, serverless, containers)
+
+Turn ideas into working products: from database design to deployment
+
+
+🧰 Tech Stack
+Languages
+
+Java · Python · JavaScript
+
+Frontend
+
+Next.js · React · HTML · CSS
+
+Backend
+
+Node.js · Spring Boot · FastAPI
+
+Databases
+
+PostgreSQL · MySQL · MongoDB · Supabase
+
+DevOps / Cloud / Tools
+
+AWS · Docker · Git
+
+
+🔭 Current Focus
+Learning AWS (compute, storage, networking, serverless) and best practices for cloud architecture
+
+Improving backend development skills: API design, authentication/authorization, testing, and performance
+
+Building projects that combine full‑stack web dev with cloud deployment
+
+
+
