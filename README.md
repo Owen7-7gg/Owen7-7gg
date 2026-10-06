@@ -26,7 +26,7 @@ Final-year Computer Science student and full‑stack developer focused on buildi
 
 ## 🔭 Current Focus
 
-- Learning AWS (compute, storage, networking, serverless) and best practices for cloud architecture  
+- Learning AWS (compute, storage, networking, serverless)  
 - Improving backend development skills: API design, authentication/authorization, testing, and performance  
 - Building projects that combine full‑stack web dev with cloud deployment
 
