@@ -5,15 +5,6 @@ Final-year Computer Science student and full‑stack developer focused on buildi
 
 ---
 
-## 🚀 What I Do
-
-- Build **full‑stack applications** with clean architecture and thoughtful UX  
-- Design and implement **REST/HTTP APIs** that are reliable and easy to consume  
-- Explore **cloud-native patterns** on AWS (compute, storage, serverless, containers)  
-- Turn ideas into working products: from database design to deployment  
-
----
-
 ## 🧰 Tech Stack
 
 **Languages**  
