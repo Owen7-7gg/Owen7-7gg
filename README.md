@@ -41,7 +41,3 @@ Final-year Computer Science student and full‑stack developer focused on buildi
 
 ---
 
-
----
-
-*Feel free to reach out for collaborations, project ideas, or just to talk about backend, APIs, and cloud.*  
