@@ -20,10 +20,10 @@ Final-year Computer Science student and full‑stack developer focused on buildi
 - Java · Python · JavaScript
 
 **Frontend**  
-- Next.js · React · HTML · CSS
+- HTML · CSS . React 
 
 **Backend**  
-- Node.js · Spring Boot · FastAPI
+- Node.js · Express.js · 
 
 **Databases**  
 - PostgreSQL · MySQL · MongoDB · Supabase
